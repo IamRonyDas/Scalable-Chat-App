@@ -95,10 +95,6 @@
 import * as React from "react";
 import { cn } from "@/lib/utils";
 
-/**
- * Elegant & responsive Card component
- * Built on top of Shadcn's style conventions.
- */
 
 function Card({ className, ...props }: React.ComponentProps<"div">) {
   return (
